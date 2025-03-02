@@ -1,0 +1,1 @@
+{"nb_filter": 64, "dropout": 0.4, "learning_rate": 0.001, "tuner/epochs": 4, "tuner/initial_epoch": 2, "tuner/bracket": 3, "tuner/round": 1, "tuner/trial_id": "0015"}
